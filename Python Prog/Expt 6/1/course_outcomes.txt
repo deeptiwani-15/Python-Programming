@@ -1,0 +1,7 @@
+Course Outcomes (COs):
+1. Understand the basics of Python programming.
+2. Apply loops, functions, and data structures.
+3. Handle files and perform basic I/O operations.
+4. Solve programming problems using logic and algorithms.
+5. Develop small projects using Python.
+6. Gain understanding of basic software development practices.
