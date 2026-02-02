@@ -25,18 +25,18 @@ It is designed for beginners to build strong problem-solving and practical codin
 ---
 
 ### 3. Nested Loops, Functions, and Recursion
-- Program using nested loops to print the following pattern for `n` rows:
+- Program using nested loops to print the following pattern for `n` rows:<br>
 1<br>
 1 2<br>
 1 2 3<br>
 1 2 3 4
 
 
-  - Program to compute **Simple Interest** using a function with parameters:
-- Principal
-- Rate
-- Time  
-- Application-oriented and practical scenario-based problems
+- Program to compute **Simple Interest** using a function with parameters:
+ - Principal
+ - Rate
+ - Time  
+ - Application-oriented and practical scenario-based problems
 
 ---
 
